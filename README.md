@@ -3,7 +3,7 @@
 This project is based on https://github.com/eugenp/tutorials/tree/master/performance-tests from Baeldung. 
 I just added Selma and updated versions.
 
-Benchmark results on my computer (throughput), sorted from best to worst:
+Benchmark results on my computer (throughput), sorted from best to worst (higher number is better):
 
     Framework      Score     Units
     MapStruct      7634.515   ops/ms
